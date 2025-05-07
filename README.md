@@ -61,4 +61,6 @@ Com base nos dados analisados, a recomendação é manter a Loja 4 e fechar a Lo
 - Acesse: https://colab.research.google.com/
 - Depois clique na aba Arquivo - Abrir notebook - Upload - Procurar - e selecione o arquivo challenge.ipynd
 
+  
+![Image](https://github.com/user-attachments/assets/4f0bc08d-5cf6-4641-bbb1-a86f55528355)
 
