@@ -1,20 +1,18 @@
-🚀 Desafio de Análise de Dados com Python - Qual Loja Manter?
+<h1>🚀 Desafio de Análise de Dados com Python - Qual Loja Manter?</h1>
 
 Seja bem-vindo(a) ao meu projeto de Data Science! Aqui, apliquei conceitos de análise exploratória de dados com Python para ajudar o Senhor João a decidir qual loja manter em funcionamento com base em dados reais de vendas, frete e avaliações de clientes.
 
 🎓 Tecnologias utilizadas
 
-Python 3.11
+- Python 3.11 🐍
 
-Google Colab
+- Google Colab 💻
 
-Pandas
+- Pandas 📊
 
-Matplotlib
+- Matplotlib 📈
 
-Visualização com Gráficos (barras e pizza)
-
-🤖 Objetivo do Projeto
+<h2>🤖 Objetivo do Projeto</h2>
 
 O projeto foi criado com o intuito de consolidar os conhecimentos iniciais em Data Science, analisando dados de 4 lojas diferentes e recomendando qual delas possui maior potencial de retorno e satisfação para os clientes.
 
@@ -62,8 +60,5 @@ Com base nos dados analisados, a recomendação é manter a Loja 4 e fechar a Lo
 
 - Acesse: https://colab.research.google.com/
 - Depois clique na aba Arquivo - Abrir notebook - Upload - Procurar - e selecione o arquivo challenge.ipynd
-
-https://s3.ezgif.com/tmp/ezgif-3540284ac3cf87.mp4
-
 
 
